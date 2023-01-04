@@ -1,5 +1,7 @@
 # Important Requirements here.
 
+flask
+flask_restful
 https://github.com/New-dev0/Telethon/archive/diamond.zip
 python-decouple
 python-dotenv
