@@ -1,6 +1,6 @@
 # Important Requirements here.
 
-p
+python3 -m ensurepip
 pip install git
 
 https://github.com/New-dev0/Telethon/archive/diamond.zip
