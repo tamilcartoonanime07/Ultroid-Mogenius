@@ -1,5 +1,8 @@
 # Important Requirements here.
 
+pip install pil
+pip install git
+
 https://github.com/New-dev0/Telethon/archive/diamond.zip
 python-decouple
 python-dotenv
