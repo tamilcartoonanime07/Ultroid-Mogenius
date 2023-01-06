@@ -1,6 +1,7 @@
-# Important Requirements here.
+# Important Requirements here
 
-GitPython
+pip install GitPython
+pip install -r requirements.txt
 flask
 flask_restful
 https://github.com/New-dev0/Telethon/archive/diamond.zip
