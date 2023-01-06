@@ -1,6 +1,5 @@
 # Important Requirements here
 
-pip install GitPython
 pip install -r requirements.txt
 flask
 flask_restful
